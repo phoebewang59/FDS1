@@ -1,6 +1,8 @@
 # Foundations of Psychological Data Science I
 Programming language: Python
+
 Primary development environment: Jupyter Notebooks
+
 Topics covered: Linux/Unix File systems, Python Programming, Data Visualization
 
 
