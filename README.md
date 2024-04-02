@@ -1,3 +1,15 @@
+# Foundations of Psychological Data Science I
+Programming language: Python
+
+Primary development environment: Jupyter Notebooks
+
+Topics covered: Linux/Unix File systems, Python Programming, Data Visualization
+
+
+## Final Project: [Election simulation](final_project/PW_FDS1_Final_Project.ipynb)
+
+
+
 # Statistic Calculator
 
 ## Instruction and notes:
